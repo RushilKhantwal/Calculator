@@ -19,9 +19,9 @@ You have to scroll down to view the operands you input once the operands have ov
 The result scrolls horizontally if the answer is large, for accomodation purposes.
 
 ## Working Screenshots
-<img src="images/ss1.jpeg"/>
-<img src="images/ss2.jpeg"/>
-<img src="images/ss3.jpeg"/>
+<img src="Images/ss1.jpeg"/>
+<img src="Images/ss2.jpeg"/>
+<img src="Images/ss3.jpeg"/>
 
 
 
